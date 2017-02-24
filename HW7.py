@@ -1,6 +1,7 @@
 from collections import OrderedDict
 from sortedcontainers import SortedDict
-
+#
+#Use this to show options
 def print_menu():
     print('1. Print Users')
     print('2. Add a User')
